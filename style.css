@@ -91,7 +91,7 @@ del {
    height: 10px;
 }
 .fa-solid {
-    margin: 5px;
+    padding-right: 5px;
 }
 
 .attribution{
