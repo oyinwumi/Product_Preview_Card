@@ -59,6 +59,7 @@ h1 {
     font-family: 'Montserrat';
     font-weight: 500;  
     margin: 20px;
+   word-spacing: 1px;
 }
 
 .price {
