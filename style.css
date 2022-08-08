@@ -90,3 +90,13 @@ del {
    width: 14px; 
    height: 10px;
 }
+.fa-solid {
+    margin: 5px;
+}
+
+.attribution{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
